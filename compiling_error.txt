@@ -1,0 +1,7 @@
+/tmp/ccY54hkD.o: In function `cir':
+area_using_func.c:(.text+0x1b9): undefined reference to `pow'
+/tmp/ccY54hkD.o: In function `sq':
+area_using_func.c:(.text+0x298): undefined reference to `pow'
+/tmp/ccY54hkD.o: In function `tri':
+area_using_func.c:(.text+0x366): undefined reference to `sqrt'
+collect2: error: ld returned 1 exit status
